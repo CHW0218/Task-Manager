@@ -2,7 +2,7 @@
 
 An simple web app that using mongoDB to save user to-do lists&Tasks across devices
 
-
+![alt text](https://github.com/CHW0218/Task-Manager/blob/main/UI.png?raw=true)
 
 ## Usage
 
